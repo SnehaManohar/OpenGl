@@ -1,2 +1,2 @@
 # OpenGl in C++
-OpenGl codes done as practice
+OpenGl codes for understanding and practice
