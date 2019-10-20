@@ -1,2 +1,2 @@
-# OpenGl
-basic opengl codes
+# OpenGl in C++
+OpenGl codes done as practice
